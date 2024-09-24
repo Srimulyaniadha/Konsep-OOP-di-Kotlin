@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="765caf50-7410-47f3-8052-edbd85da0c87" name="Changes" comment="starter project">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Konsep OOP di Kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/AccessModifierA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/Contructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/DataClassF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/EnkapsulasiA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InheritanceF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InitOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InterfaceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InterfaceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InterfaceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/InterfaceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/NestedInnerClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/NestedInnerClassA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/NestedInnerClassB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PersonF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/PolymorphismB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/id/ac/polbeng/depandi/test_kelas/VisibilityA.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mB4thglwjzFHcjC23IVRc0oa9N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.AccessModifierAKt.executor": "Run",
+    "Kotlin.AccessModifierBKt.executor": "Run",
+    "Kotlin.DataClassAKt.executor": "Run",
+    "Kotlin.DataClassBKt.executor": "Run",
+    "Kotlin.DataClassCKt.executor": "Run",
+    "Kotlin.DataClassDKt.executor": "Run",
+    "Kotlin.DataClassEKt.executor": "Run",
+    "Kotlin.DataClassFKt.executor": "Run",
+    "Kotlin.EnkapsulasiAKt.executor": "Run",
+    "Kotlin.EnkapsulasiBKt.executor": "Run",
+    "Kotlin.GreeterTestKt.executor": "Run",
+    "Kotlin.InheritanceAKt.executor": "Run",
+    "Kotlin.InheritanceBKt.executor": "Run",
+    "Kotlin.InheritanceCKt.executor": "Run",
+    "Kotlin.InheritanceDKt.executor": "Run",
+    "Kotlin.InheritanceEKt.executor": "Run",
+    "Kotlin.InheritanceFKt.executor": "Run",
+    "Kotlin.InheritanceGKt.executor": "Run",
+    "Kotlin.InheritanceHKt.executor": "Run",
+    "Kotlin.InitOrderKt.executor": "Run",
+    "Kotlin.InterfaceAKt.executor": "Run",
+    "Kotlin.InterfaceBKt.executor": "Run",
+    "Kotlin.InterfaceCKt.executor": "Run",
+    "Kotlin.InterfaceDKt.executor": "Run",
+    "Kotlin.NestedInnerClassAKt.executor": "Run",
+    "Kotlin.NestedInnerClassBKt.executor": "Run",
+    "Kotlin.NestedInnerClassKt.executor": "Run",
+    "Kotlin.PersonAKt.executor": "Run",
+    "Kotlin.PersonBKt.executor": "Run",
+    "Kotlin.PersonCKt.executor": "Run",
+    "Kotlin.PersonDKt.executor": "Run",
+    "Kotlin.PersonEKt.executor": "Run",
+    "Kotlin.PersonFKt.executor": "Run",
+    "Kotlin.PolymorphismAKt.executor": "Run",
+    "Kotlin.PolymorphismBKt.executor": "Run",
+    "Kotlin.VisibilityAKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/jajat/IdeaProjects/Konsep OOP di Kotlin/src/Main.kt"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.InterfaceBKt">
+    <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassCKt" />
+      <module name="Konsep OOP di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassDKt" />
+      <module name="Konsep OOP di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassEKt" />
+      <module name="Konsep OOP di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassFKt" />
+      <module name="Konsep OOP di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceBKt" />
+      <module name="Konsep OOP di Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.InterfaceBKt" />
+        <item itemvalue="Kotlin.DataClassFKt" />
+        <item itemvalue="Kotlin.DataClassEKt" />
+        <item itemvalue="Kotlin.DataClassDKt" />
+        <item itemvalue="Kotlin.DataClassCKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765caf50-7410-47f3-8052-edbd85da0c87" name="Changes" comment="" />
+      <created>1726536854172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726536854172</updated>
+    </task>
+    <task id="LOCAL-00001" summary="starter project">
+      <option name="closed" value="true" />
+      <created>1727141764578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727141764578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starter project" />
+    <option name="LAST_COMMIT_MESSAGE" value="starter project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Main.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
